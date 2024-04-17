@@ -1,0 +1,8 @@
+# Entendimento
+## Livro >> O Programador Pragmático >> Capítulo 7 >> Antes do projeto
+
+Os requisitos não estão visíveis; é necessário consegui-los dos que desejam que algo seja construído. No caso, o analista de requisitos pode imergir em determinado cenário (problema a ser resolvido). Por exemplo, na construção de uma solução para controle de estoque, nada é mais interessante do que passar uma semana trabalhando no almoxarifado daquela companhia detentora da dor. Para isso, é importante que os requisitos sejam documentados, com a intenção de que fique entendido (acordado) entre os envolvidos que o cenário descrito é o que se espera como solução.
+
+Para realizar as especificações do projeto, é preciso ter cuidado para não realizar uma descrição minuciosa, na tentativa de preencher todos os detalhes que se pensa para determinado cenário, pois dessa forma tiraria a magia da criatividade do desenvolvedor.
+
+Antes de fazer valer e colocar a mão na massa no projeto, talvez seja válido criar um protótipo do projeto. A partir dele, diminui-se o ímpeto de já sair construindo algo; ao invés disso, obtém-se do cenário possíveis validações, de quais ideias devem seguir adiante, e de quais devem ser descartadas. Ainda com a escolha da prototipagem ao invés da codificação, pode-se suprimir a adoção de métodos de desenvolvimento de software que vão priorizar a confecção de diagramas e documentos formais, sendo dimunui a rigidez e complexidade para um problema que pode ser simples e pequeno.
