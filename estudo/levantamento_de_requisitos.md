@@ -1,5 +1,4 @@
-# O que está sendo estudado
-
+# Entendimento
 ## Levantamento de Requisitos
 Essa etapa recebe várias nomenclaturas: elicitação, captura, descoberta, aquisição, de requisitos, e tem o **P**roduct **O**wner (ou analista de requisitos, ou analista de negócios, ou analista de sistemas) como o responsável por descobrir e entender os requisitos, ou seja, o que cliente realmente deseja.
 
